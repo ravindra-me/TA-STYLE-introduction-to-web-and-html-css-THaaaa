@@ -1,0 +1,11 @@
+body{
+    background: gray;
+}
+.heading{
+    color:red;
+    font-size: 30px;
+}
+#id{
+    color: antiquewhite;
+    font-size: 10px;
+}
