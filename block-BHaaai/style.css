@@ -1,0 +1,17 @@
+body{
+    background-color: #223969;
+    color: #fff;
+}
+h2{
+    color: #31bb66;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #14274e;
+}
+a{
+    color: red;
+}
