@@ -1,0 +1,25 @@
+body{
+    background-color: #134363;
+    color: #fff;
+}
+.address{
+    color: #fff;
+}
+.name{
+    color: white;
+    font-weight: bold;
+}
+.self-intro{
+    color: #18d618;
+    font-size: 30px;
+}
+strong{
+    font: bold;
+}
+.links{
+    color: red;
+    margin-left:15px;
+}
+a{
+    color: red;
+}
